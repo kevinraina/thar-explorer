@@ -7,7 +7,7 @@ Follow these steps:
 git clone https://github.com/kevinraina/thar-explorer.git
 
 # Step 2: Navigate to the project directory.
-cd thar_explorer
+cd thar-explorer
 
 # Step 3: Install the necessary dependencies.
 npm install
